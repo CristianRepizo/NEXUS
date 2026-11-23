@@ -16,9 +16,9 @@
    "No se pudo contactar Drive". Si se re-despliega el Apps Script, actualizar aquí.
    ========================================================================= */
 window.NEXUS_CONFIG = {
-  // --- Supabase (proyecto Maxim-PCE) ---
-  URL_SB: "https://ryfhzlbvcqnxaptltslo.supabase.co",
-  KEY:    "sb_publishable_KtRk1DP1IR5gNl_woH30YA_wiB--4V9",
+  // --- Supabase (proyecto NEXUS · recreado 2026-11-23, ref eofqnqlkznlohqemfcop) ---
+  URL_SB: "https://eofqnqlkznlohqemfcop.supabase.co",
+  KEY:    "sb_publishable_25tFAhMoGc7i_zORciiqfQ_2tazct0U",
 
   // --- Google Apps Script (reflejo/lectura de Drive) ---
   DRIVE_URL:   "https://script.google.com/macros/s/AKfycbziYj_K4GhobIYgVt8NVq9GPXo6NItfUkSn9cBEh_UoPHSX92g4NsWUGoX_yOvnd1Rt/exec",
